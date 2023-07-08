@@ -15,3 +15,5 @@ Git is easy to learn and has a tiny footprint with lightning fast performance. I
 ## 2. Downloading Git
 https://git-scm.com/downloads
 
+## 3. First time working with GIT
+working for the first time with the help of Vinayak
