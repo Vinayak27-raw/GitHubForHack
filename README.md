@@ -10,6 +10,21 @@ Welcome to the Hackathon Jokes repository! This repository is dedicated to colle
 - [Jokes]
 - Contributing
 - License
+  
+#JOKES
+Why did the developer go broke?
+
+Because he lost his domain in a hackathon!
+What did one code say to another during a hackathon?
+
+"I feel so byte-ful!"
+Why did the programmer bring a ladder to the hackathon?
+To reach the highest branches of the code tree!
+
+
+![200w](https://github.com/ishabhthakur/GitHubForHack/assets/82073000/64e742a0-0567-48b8-bcd1-c85180f244fd)
+
+
 
 ## Getting Started
 
