@@ -24,10 +24,13 @@ Talks from friends of MLH and our partners
 Live sessions run by MLHers
 
 CAN I GET SWAG AT THIS EVENT?
+
 Yes, of course! GHW will feature some amazing 2023 Hackathon Season swag…you’ll have to participate to find out exactly what you’re getting! 
 
 WHAT IS A GUILD? HOW CAN I BE A PART OF IT?
+
 One of the best parts of our community is that it allows people to meet and make connections with others, regardless of where you live. guilds are smaller communities within Major League Hacking. Whether you come in with a guild or not, you won’t be hacking alone.
 
 WHO ORGANIZED GLOBAL HACK WEEK?
+
 Global Hack Week is organized by Major League Hacking (MLH). It is our mission to empower hackers worldwide by providing them with the tools, resources, and opportunities they need to succeed. 
