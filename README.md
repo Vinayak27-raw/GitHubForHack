@@ -1,5 +1,6 @@
-
-
+# GHW Season Launch 
+### Project GitHubForHack How to effectively use GitHub at Hackhon with Khushi from MLH
+![July-generic_Website Ad - OHQ](https://github.com/geoffreylgv/GitHubForHack/assets/52314615/3dca0f10-9235-4ab2-998d-96cf6dc23a2e)
 
 ## Getting Started
 
